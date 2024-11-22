@@ -50,6 +50,7 @@ class ItemRepositoryTest {
         log.info("아이템명" + item.getItemNm());
         log.info("아이템 이미지" + item.getItemImgList().get(0).getImgUrl());
 
+
     }
 
     @Test
